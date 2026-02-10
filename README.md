@@ -1,4 +1,4 @@
-# TaxPrep for Etsy
+# TaxPrep for Creatives
 
 iOS application to help Etsy sellers organize transaction data for Schedule C tax filing.
 
